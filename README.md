@@ -74,5 +74,5 @@ emotion-face-recognition/
 
 ## Authors
 
-- **Alexandru Flavius Morar** – [GitHub](https://github.com/flavm00)
+- **Alexandru Flavius Morar** – [GitHub](https://github.com/flavm00) · [LinkedIn](https://www.linkedin.com/in/alexandru-flavius-morar-5b2333213)
 - Mirela Georgiana Mărunt – co-author of the course project

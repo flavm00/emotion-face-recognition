@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# dataset is downloaded separately (see README)
+data/
+# personal reference photos stay local
+known_faces/*
+!known_faces/README.md

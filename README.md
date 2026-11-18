@@ -34,7 +34,7 @@ Python · OpenCV · TensorFlow / Keras · face_recognition (dlib) · NumPy · pa
 ## Run it
 
 ```bash
-git clone https://github.com/<your-username>/emotion-face-recognition.git
+git clone https://github.com/flavm00/emotion-face-recognition.git
 cd emotion-face-recognition
 python3 -m venv .venv && source .venv/bin/activate
 
@@ -74,5 +74,5 @@ emotion-face-recognition/
 
 ## Authors
 
-- **Alexandru Flavius Morar** – [GitHub](https://github.com/<your-username>) · [LinkedIn](https://www.linkedin.com/in/<your-profile>)
+- **Alexandru Flavius Morar** – [GitHub](https://github.com/flavm00)
 - Mirela Georgiana Mărunt – co-author of the course project
